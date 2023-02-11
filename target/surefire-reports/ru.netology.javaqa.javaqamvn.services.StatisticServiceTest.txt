@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.netology.javaqa.javaqamvn.services.StatisticServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.025 s <<< FAILURE! - in ru.netology.javaqa.javaqamvn.services.StatisticServiceTest
+shouldFindMinSumm  Time elapsed: 0.022 s  <<< ERROR!
+java.lang.ArrayIndexOutOfBoundsException: Index 12 out of bounds for length 12
+	at ru.netology.javaqa.javaqamvn.services.StatisticServiceTest.shouldFindMinSumm(StatisticServiceTest.java:13)
+
